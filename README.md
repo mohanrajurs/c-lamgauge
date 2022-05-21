@@ -1,4 +1,4 @@
-# c-lamgauge
+# c-languge
 code
 #include<stdio.h>
 main()
